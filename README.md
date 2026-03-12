@@ -24,6 +24,7 @@ I enjoy building scalable backend applications and interactive web apps using mo
 #### 💻 Programming
 
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
 
 #### ⚙️ Backend
@@ -41,15 +42,6 @@ I enjoy building scalable backend applications and interactive web apps using mo
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge\&logo=xampp)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kritshahdeo&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritshahdeo&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
